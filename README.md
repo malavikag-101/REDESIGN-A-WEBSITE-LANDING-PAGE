@@ -1,4 +1,4 @@
-![malavika - uiux task 1  after](https://github.com/user-attachments/assets/c6dca717-f86c-4732-bffe-dd0ffa1a38ae)# REDESIGN-A-WEBSITE-LANDING-PAGE
+# REDESIGN-A-WEBSITE-LANDING-PAGE
 **COMPANY**: CODTECH IT SOLUTIONS
 **NAME**: MALAVIKA G
 **INTERN ID**: CT04DL1333
